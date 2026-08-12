@@ -23,7 +23,7 @@ Robotics and autonomous systems engineer with hands-on project experience in sen
 - Contributed to robotics-focused embedded/software integration work.
 - Demonstrated practical engineering ability in a competition-style environment.
 
-### Navigation & Robotics Experiments (`file-transfer`)
+### file-transfer — Navigation & Robotics Experiments
 **GitHub:** https://github.com/asesham/file-transfer  
 - Collected navigation and robotics artifacts, including launch configuration and IMU calibration-related code.
 - Explored system-level robotics workflows that combine scripting and C++ components.
